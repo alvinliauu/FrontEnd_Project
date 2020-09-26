@@ -1,0 +1,9 @@
+2201831134 - Alexander Hung
+2201752325 - Jonathan Kurnia
+2201738346 - Alvin
+2201820502 - Wilson Adrilia
+
+Pada project ini kami membuat tampilan website yang statis di mana hanya menampilkan home yang berisi image-slider dan berita-berita lainnya yang masih berbentuk statis menggunakan javascript dan jquery. 
+Kemudian tugas saya dalam project ini adalah membuat page untuk register dan juga page music yang menampilkan beberapa lagu yang diambil dari website dan dijadikan sebagai referensi.   
+
+references ada disetiap folder assets.
