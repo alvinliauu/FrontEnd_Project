@@ -4,6 +4,6 @@
 2201820502 - Wilson Adrilia
 
 Pada project ini kami membuat tampilan website yang statis di mana hanya menampilkan home yang berisi image-slider dan berita-berita lainnya yang masih berbentuk statis menggunakan javascript dan jquery. 
-Kemudian tugas saya dalam project ini adalah membuat page untuk register dan juga page music yang menampilkan beberapa lagu yang diambil dari website dan dijadikan sebagai referensi.   
+Kemudian tugas saya dalam project ini adalah membuat page untuk register dan juga page top 10 music yang menampilkan beberapa lagu berdasarkan referensi yang diambil dari music website.
 
 references ada disetiap folder assets.
